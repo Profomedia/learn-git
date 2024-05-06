@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+this is in gitter branch
+=======
+this is a file that shows you how to learn git
+
+this is a fixed file
+>>>>>>> fixed-gitter
